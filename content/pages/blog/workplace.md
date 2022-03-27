@@ -5,7 +5,7 @@ excerpt: >-
   rapidamente. As restrições de circulação das pessoas e de funcionamento dos
   estabelecimentos levaram os clientes a, rapidamente, migrarem para o meio
   digital.
-date: '2021-02-12'
+date: '2022-03-27'
 thumb_image: images/post-6-thumb.jpg
 thumb_image_alt: White desk lamp beside green plant
 image: images/post-6.jpg
