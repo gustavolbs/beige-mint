@@ -29,5 +29,5 @@ seo:
       value: images/post-1.jpg
       relativeUrl: true
 layout: blog
-title: Utilidades
+title: Artigos
 ---
