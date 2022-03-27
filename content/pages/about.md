@@ -3,15 +3,14 @@ title: Sobre o Projeto
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+    content: >
+      Este site foi produzido como trabalho final da disciplina Transformação
+      Digital do curso de Ciência da Computação da Universidade Federal de
+      Campina Grande por Gustavo Bispo em 2022.
 
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+      O objetivo deste site é fazer com que pessoas consigam se digitalizar,
+      tornando seus negócios em digitais.
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
