@@ -1,5 +1,5 @@
 ---
-title: Our Story
+title: Sobre o Projeto
 hide_title: false
 sections:
   - type: content_section
