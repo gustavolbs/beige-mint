@@ -1,8 +1,10 @@
 ---
 title: Como migrar de MEI para ME
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
+  Se a sua empresa faturou mais de R$ 81 mil no ano, é sinal que o seu negócio
+  cresceu e que chegou a hora de mudar de MEI para ME. Mas além desse, existem
+  outros motivos que levam à necessidade de fazer essa migração, tal como,
+  contratar mais funcionários.
 date: '2021-01-05'
 thumb_image: images/post-4-thumb.jpg
 thumb_image_alt: White concrete building
