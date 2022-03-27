@@ -3,7 +3,7 @@ title: Como regulamentar meu negócio através do MEI
 excerpt: >-
   Aprenda como abrir um MEI e regulamentar seu negócio de forma gratuita e sem
   sair de casa.
-date: '2021-01-15'
+date: '2022-03-27'
 thumb_image: images/post-5-thumb.jpg
 thumb_image_alt: White wooden table with a chair
 image: images/post-5.jpg
