@@ -52,7 +52,8 @@
                 "url": "https://www.instagram.com/gugabispo99",
                 "style": "icon",
                 "icon": "instagram",
-                "new_window": true
+                "new_window": true,
+                "no_follow": true
             },
             {
                 "label": "Dribbble",
