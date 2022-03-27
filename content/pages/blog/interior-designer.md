@@ -1,8 +1,6 @@
 ---
 title: Como montar uma loja virtual grátis?
-subtitle: >-
-  Interior design is “the art or process of designing the interior, often
-  including the exterior, of a room or building”.
+subtitle: Artigo retirado do Tech Tudo
 excerpt: >-
   Interior design is “the art or process of designing the interior, often
   including the exterior, of a room or building”. An interior designer is
