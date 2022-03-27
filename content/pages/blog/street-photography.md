@@ -1,5 +1,5 @@
 ---
-title: Como sair de MEI para ME
+title: Como migrar de MEI para ME
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
