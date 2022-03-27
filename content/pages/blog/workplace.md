@@ -1,6 +1,10 @@
 ---
 title: Como transformar o meu negócio em ditial
-excerpt: "A pandemia do novo coronavírus fez o mercado consumidor mudar muito rapidamente. As restrições de circulação das pessoas e de funcionamento dos estabelecimentos levaram os clientes a, rapidamente, migrarem para o meio digital.\_"
+excerpt: >-
+  A pandemia do novo coronavírus fez o mercado consumidor mudar muito
+  rapidamente. As restrições de circulação das pessoas e de funcionamento dos
+  estabelecimentos levaram os clientes a, rapidamente, migrarem para o meio
+  digital.
 date: '2021-02-12'
 thumb_image: images/post-6-thumb.jpg
 thumb_image_alt: White desk lamp beside green plant
