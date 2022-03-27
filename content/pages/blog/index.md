@@ -1,5 +1,5 @@
 ---
-subtitle: 'Dicas, informaçÕes '
+subtitle: 'Dicas, informações  importantes e tudo q você'
 hide_title: false
 col_number: three
 seo:
