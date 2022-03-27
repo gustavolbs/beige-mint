@@ -1,6 +1,6 @@
 ---
 title: Sobre o Projeto
-hide_title: true
+hide_title: false
 sections:
   - type: content_section
     content: >-
