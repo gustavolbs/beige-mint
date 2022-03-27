@@ -41,7 +41,7 @@ seo:
       value: images/post-6.jpg
       relativeUrl: true
 layout: post
-subtitle: 'Artigo retirado do '
+subtitle: Artigo retirado do Santander Negócios e Empresas
 ---
 A pandemia do novo coronavírus fez o mercado consumidor mudar muito rapidamente. As restrições de circulação das pessoas e de funcionamento dos estabelecimentos levaram os clientes a, rapidamente, migrarem para o meio digital. [Dados do MCC-ENET](https://www.mccenet.com.br/indice-de-vendas-online) apontam crescimento nas vendas online de 137,35% em maio; 110,52% em junho; e 106,78% em julho; quando comparado aos mesmos meses de 2019.
 
