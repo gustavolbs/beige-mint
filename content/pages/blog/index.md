@@ -1,5 +1,5 @@
 ---
-subtitle: 'News, tips and highlights'
+subtitle: 'Dicas, informaçÕes '
 hide_title: false
 col_number: three
 seo:
