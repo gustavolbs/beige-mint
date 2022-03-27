@@ -60,7 +60,7 @@
                 "url": "https://github.com/gustavolbs",
                 "style": "link",
                 "icon": "github",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             }
         ]
