@@ -1,6 +1,6 @@
 ---
 subtitle: 'Dicas, informações importantes e tudo que você precisa saber.'
-hide_title: false
+hide_title: true
 col_number: three
 seo:
   title: Journal
