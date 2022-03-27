@@ -131,7 +131,7 @@ Quando o motivo da alteração é o aumento do faturamento anual, é preciso tam
 
 ### **2. Comunicar a Junta Comercial do seu estado**
 
-Em seguida, é preciso \*\*comunicar a Junta Comercial \*\*do seu estado a mudança de MEI para ME. Para isso, você deve apresentar os seguintes documentos:
+Em seguida, é preciso comunicar a Junta Comercial do seu estado a mudança de MEI para ME. Para isso, você deve apresentar os seguintes documentos:
 
 *   comunicação de desenquadramento do Simei;
 
