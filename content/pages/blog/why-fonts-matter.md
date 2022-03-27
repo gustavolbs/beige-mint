@@ -1,7 +1,7 @@
 ---
 title: Como vender pelo Instagram
 excerpt: "Cada vez mais, saber\_como vender pelo Instagram\_é quase um requisito básico para todas as\_lojas virtuais ou físicas. Isso porque há grandes chances de que o seu\_público-alvo\_também faça uso de\_uma das redes sociais mais usadas no Brasil e no mundo."
-date: '2020-12-27'
+date: '2022-03-27'
 thumb_image: images/post-3-thumb.jpg
 thumb_image_alt: Black white calendar
 image: images/post-3.jpg
