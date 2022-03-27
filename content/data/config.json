@@ -53,7 +53,7 @@
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true,
-                "no_follow": true
+                "no_follow": false
             },
             {
                 "label": "Dribbble",
