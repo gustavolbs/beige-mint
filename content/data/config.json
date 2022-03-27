@@ -21,7 +21,8 @@
             },
             {
                 "url": "/blog/",
-                "style": "link"
+                "style": "link",
+                "label": "Artigos"
             },
             {
                 "label": "About",
