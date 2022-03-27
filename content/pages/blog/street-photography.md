@@ -5,7 +5,7 @@ excerpt: >-
   cresceu e que chegou a hora de mudar de MEI para ME. Mas além desse, existem
   outros motivos que levam à necessidade de fazer essa migração, tal como,
   contratar mais funcionários.
-date: '2021-01-05'
+date: '2022-03-27'
 thumb_image: images/post-4-thumb.jpg
 thumb_image_alt: White concrete building
 image: images/post-4.jpg
