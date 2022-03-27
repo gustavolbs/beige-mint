@@ -1,5 +1,5 @@
 ---
-title: Como regulamentarizar meu negócio
+title: Como regulamentar meu negócio através do MEI
 excerpt: >-
   Aprenda como abrir um MEI e regulamentar seu negócio de forma gratuita e sem
   sair de casa.
