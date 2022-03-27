@@ -43,9 +43,138 @@ seo:
 layout: post
 subtitle: Artigo retirado do site Contabilizei.com.br
 ---
+Se a sua empresa faturou mais de R$ 81 mil no ano, é sinal que o seu negócio cresceu e que chegou a hora de mudar de MEI para ME. Mas além desse, existem outros motivos que levam à necessidade de fazer essa migração, tal como, contratar mais funcionários.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo laoreet sit. Tincidunt id aliquet risus feugiat in ante. Non diam phasellus vestibulum lorem sed. Morbi quis commodo odio aenean. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Vel eros donec ac odio tempor orci dapibus ultrices. Facilisi morbi tempus iaculis urna id volutpat. Luctus accumsan tortor posuere ac. Sagittis orci a scelerisque purus semper eget. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Dolor purus non enim praesent. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Aliquam vestibulum morbi blandit cursus risus.
+E qual seria a melhor maneira de fazer essa alteração? Vale mais a pena migrar de uma categoria para outra ou abrir uma nova empresa? Essas respostas, bem como as opções existentes para fazer a mudança e o passo a passo de cada uma delas é o que vamos esclarecer agora.
 
-Scelerisque fermentum dui faucibus in ornare quam viverra orci. Libero justo laoreet sit amet cursus. Gravida rutrum quisque non tellus orci. Ut sem nulla pharetra diam sit amet nisl suscipit. Lorem ipsum dolor sit amet consectetur adipiscing elit. Urna porttitor rhoncus dolor purus. Quisque non tellus orci ac auctor augue mauris augue. Consectetur adipiscing elit duis tristique sollicitudin. Vitae semper quis lectus nulla at volutpat. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Porta nibh venenatis cras sed felis eget velit. Ullamcorper malesuada proin libero nunc consequat interdum. Enim sed faucibus turpis in eu mi bibendum neque egestas. Facilisi morbi tempus iaculis urna. Rhoncus est pellentesque elit ullamcorper dignissim. Aenean et tortor at risus viverra adipiscing at in. Cursus euismod quis viverra nibh cras pulvinar mattis nunc sed. Sit amet aliquam id diam. Ut tristique et egestas quis ipsum suspendisse. Congue quisque egestas diam in arcu cursus.
+## &#xA;**Quais as diferenças entre MEI e ME?**
 
-Mattis enim ut tellus elementum sagittis. At volutpat diam ut venenatis tellus in metus vulputate eu. Habitant morbi tristique senectus et. Id aliquet lectus proin nibh nisl condimentum id venenatis. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Lectus vestibulum mattis ullamcorper velit sed. Semper viverra nam libero justo. Purus sit amet luctus venenatis. Massa id neque aliquam vestibulum morbi blandit cursus risus at. Feugiat nibh sed pulvinar proin gravida.
+Mas antes de falarmos sobre como mudar de MEI para ME, é importante entender melhor as diferenças entre essas duas categorias de porte empresarial. Veja abaixo as principais características de cada uma.
+
+
+
+### **MEI**
+
+Se tornar MEI, Microempreendedor Individual, é a maneira mais fácil de **legalizar as atividades de quem trabalha por conta própria**. Mas para se enquadrar, é necessário atender às seguintes regras:
+
+*   ter faturamento anual de até R$ 81 mil;
+
+*   não participar como titular, sócio ou administrador de outra empresa;
+
+*   ter no máximo 1 funcionário;
+
+*   exercer apenas as atividades econômicas previstas no anexo XI da[ Resolução CGSN nº 140, de 22 de maio de 2018](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado\&idAto=92278)
+
+Entre as vantagens de ser MEI está a facilidade de legalização, que se inicia com o cadastro no Portal do Empreendedor, prosseguindo junto à prefeitura e à Sefaz, Secretaria de Estado da Fazenda.
+
+
+A carga tributária do MEI também é diferente das demais categorias. Em um único recolhimento, através do Documento de Arrecadação Simplificado (DAS), o contribuinte quita mensalmente os valores correspondentes:
+
+
+
+*   R$ 5 de ISS (Imposto sobre Serviços de Qualquer Natureza) se a atividade for prestação de serviço;
+
+*   R$ 1 de ICMS (Imposto sobre Circulação de Mercadorias e Serviços) se for comércio ou indústria;
+
+*   5% do salário mínimo para o INSS (Instituto Nacional do Seguro Social)
+
+
+
+### **ME**
+
+Já a ME (Microempresa) é indicada para **empreendimentos maiores e cujo CNAE (Classificação Nacional de Atividades Econômicas) não se enquadra como MEI**. Além disso, essa categoria tem as seguintes características:
+
+*   faturamento bruto anual de até R$ 360 mil;
+
+*   possibilidade de contratar até 9 funcionários para comércio e prestação de serviços e até 19 funcionários para o segmento industrial;
+
+*   opção entre os regimes tributários Simples Nacional, Lucro Presumido e Lucro Real;
+
+*   escolha entre as categorias de natureza jurídica Empresário Individual, EIRELI (Empresa Individual de Responsabilidade Limitada), Sociedade Simples ou Sociedade Empresária;
+
+*   permissão para emitir notas fiscais de vendas, tanto para pessoa física quanto para jurídica.
+
+Das vantagens de ser uma ME, está a simplificação das regras previdenciárias e trabalhistas, a possibilidade de participar de licitações e também o enquadramento na Lei Geral das Microempresas e Empresas de Pequeno Porte que, entre outras coisas, visa:
+
+*   simplificar e desburocratizar o processo de abertura;
+
+*   facilitar o acesso ao mercado;
+
+*   facilitar o acesso à justiça e a obtenção de crédito;
+
+*   estimular a exportação e a inovação;
+
+*   contribuir para o pagamento de menos impostos. 
+
+
+
+## **O que leva à necessidade de migrar de MEI para ME?**
+
+Considerando as características de cada categoria, fica mais claro entender quando é necessário mudar de MEI para ME.
+
+O primeiro motivo que torna a migração obrigatória é o **faturamento mensal**. Ao exceder o limite de R$ 81 mil ao ano, o empreendedor precisa solicitar o novo enquadramento. 
+
+Aqui, é importante ressaltar que caso você queira investir no crescimento e na expansão do seu negócio, não é preciso esperar ter um rendimento maior do que o estabelecido aos microempreendedores para fazer a alteração para microempresa. A mudança pode ser feita a qualquer momento.
+
+Outros motivos que levam à mudança de porte empresarial são: **necessidade de contratar mais funcionários, de abrir filiais ou de ter sócios**. Ou seja, é obrigatório mudar de MEI para ME quando alguma condição descaracterize o atendimento às regras de microempreendedor.
+
+
+
+## **Passo a passo para migrar de MEI para ME**
+
+São duas as opções para deixar de ser MEI e se tornar ME. Se a nova realidade do seu negócio atende a uma, ou mais, das condições acima, é sinal de que seu projeto deu certo e é hora de crescer ainda mais. 
+
+Mas se a sua dúvida agora é como passar de MEI para ME, saiba que existem duas possibilidades. Veja, a seguir, o passo a passo de cada uma delas.
+
+### **1. Solicitar o desenquadramento do MEI no Portal do Simples Nacional**
+
+Independentemente do motivo, a **migração de MEI para ME começa pelo **[**Portal do Simples Nacional**](http://www8.receita.fazenda.gov.br/SIMPLESNACIONAL/Servicos/Grupo.aspx?grp=t\&area=2), local onde o desenquadramento do MEI deve ser solicitado.
+
+No caso de mudanças automáticas — quando o microempreendedor altera a natureza jurídica para EI (Empreendedor Individual), inclui uma atividade econômica diferente da permitida para a categoria, ou abre uma filial — basta confirmar o processo de mudança no próprio Portal, sem necessitar qualquer outra ação.
+
+Quando o motivo da alteração é o aumento do faturamento anual, é preciso também ajustar o valor recolhido durante o ano anterior através de um novo DAS, da seguinte maneira:
+
+*   **faturamento não ultrapassou 20% do limite de R$ 81 mil**: efetuar o pagamento mensal normal do DAS-MEI. Depois, gerar um novo DAS através do PGDAS-D, referente ao valor excedente, e realizar a quitação até a data estipulada para os tributos do Simples Nacional;
+
+*   **faturamento ultrapassou 20% do limite de R$ 81 mil**: o recolhimento dos impostos excedentes também é feito via DAS, mas de forma retroativa, considerando o início do ano-calendário do aumento.
+
+### **2. Comunicar a Junta Comercial do seu estado**
+
+Em seguida, é preciso **comunicar a Junta Comercial **do seu estado a mudança de MEI para ME. Para isso, você deve apresentar os seguintes documentos:
+
+*   comunicação de desenquadramento do Simei;
+
+*   formulário de desenquadramento;
+
+*   contrato social ou equivalente;
+
+*   requerimento solicitando ao presidente da Junta Comercial o desenquadramento da sua empresa.
+
+### **3. Atualizar os dados cadastrais da sua empresa na Junta Comercial e demais órgãos locais**
+
+No processo anterior foi feita apenas a modificação da sua inscrição. Para concluir a mudança é preciso **atualizar os dados cadastrais** da sua empresa, Razão Social e Capital Social, na Junta Comercial.
+
+
+Prefeitura e demais órgãos, conforme solicitado na legislação do seu município, também devem ser comunicados, bem como a Sefaz, Secretaria de Estado da Fazenda. 
+
+### **4. Pague os tributos e impostos corretamente**
+
+
+Apesar de o auxílio de um contador para abrir empresa não ser obrigatório, contar com a ajuda de um profissional logo no início de suas atividades evitam erros e aborrecimentos — lembrando também que o serviço de contabilidade mensal é exigido por lei para empresas que não sejam MEI, ou seja, vale a pena ter o acompanhamento especializado desde os primeiros passos.
+
+
+Além disso, existem outros motivos que justificam esse acompanhamento. Para abrir empresa é preciso tomar algumas decisões, tais como:
+
+*   qual será o tipo da sua empresa?
+
+*   qual será a natureza jurídica?
+
+*   quais serão as atividades exercidas e como determinar o CNAE?
+
+*   quais impostos devem ser pagos mensalmente?
+
+*   qual a documentação necessária para abertura de uma ME?
+
+*   qual o valor para obtenção do CNPJ?
+
+Ou seja, são diversos detalhes que, para quem não é profissional da área, pode se tornar um tanto complicado.
