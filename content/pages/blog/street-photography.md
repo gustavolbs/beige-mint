@@ -119,7 +119,7 @@ Mas se a sua dúvida agora é como passar de MEI para ME, saiba que existem duas
 
 ### **1. Solicitar o desenquadramento do MEI no Portal do Simples Nacional**
 
-Independentemente do motivo, a \*\*migração de MEI para ME começa pelo \*\*[**Portal do Simples Nacional**](http://www8.receita.fazenda.gov.br/SIMPLESNACIONAL/Servicos/Grupo.aspx?grp=t\&area=2), local onde o desenquadramento do MEI deve ser solicitado.
+Independentemente do motivo, a migração de MEI para ME começa pelo [**Portal do Simples Nacional**](http://www8.receita.fazenda.gov.br/SIMPLESNACIONAL/Servicos/Grupo.aspx?grp=t\&area=2), local onde o desenquadramento do MEI deve ser solicitado.
 
 No caso de mudanças automáticas — quando o microempreendedor altera a natureza jurídica para EI (Empreendedor Individual), inclui uma atividade econômica diferente da permitida para a categoria, ou abre uma filial — basta confirmar o processo de mudança no próprio Portal, sem necessitar qualquer outra ação.
 
@@ -167,8 +167,6 @@ Além disso, existem outros motivos que justificam esse acompanhamento. Para ab
 
 Ou seja, são diversos detalhes que, para quem não é profissional da área, pode se tornar um tanto complicado.
 
-
-
 ## **Qual outra opção além da migração de MEI para ME?**
 
 Caso considere esse processo um tanto complicado, outra opção que você tem é **dar baixa no seu CNPJ de MEI e abrir uma nova empresa como ME**, ou outra categoria.
@@ -193,13 +191,9 @@ Para finalizar o processo, é preciso quitar os débitos existentes, gerando o D
 
 Com o processo de baixa do seu CNPJ de MEI concluído, você já pode **abrir empresa na nova categoria**. Uma forma de fazer isso é via internet, com a ajuda de uma contabilidade on-line, o que torna o trâmite de abertura mais rápido e fácil. 
 
-
-
 ## **Quanto custa passar de MEI para ME?**
 
-Como estamos vendo, em muitas situações se torna imperativo deixar de ser MEI e passar a ser ME. Para realizar o desenquadramento e compor a nova situação jurídica você irá gastar em torno de R$ 260,00 em taxas públicas (valores de 2021). 
-
-
+Como estamos vendo, em muitas situações se torna imperativo deixar de ser MEI e passar a ser ME. Para realizar o desenquadramento e compor a nova situação jurídica você irá gastar em torno de R$ 260,00 em taxas públicas (valores de 2021).
 
 ## **MEI para ME: Uma mudança necessária**
 
@@ -208,4 +202,3 @@ Mudar de MEI para ME, ainda que pareça um processo complicado, é mais uma prov
 Ainda que você possa fazer todo o trâmite por conta própria, o suporte de um profissional da área contábil ajuda para que os processos sejam realizados de maneira mais fácil, sem dor de cabeça e lhe dando tempo para se dedicar a outras ações necessárias para a nova etapa do seu empreendimento.
 
 Além disso, ao se tornar uma microempresa, você vai precisar de um serviço de contabilidade mensal. Também por esse motivo, nada melhor do que contar com toda orientação e suporte desde os primeiros passos.
-
