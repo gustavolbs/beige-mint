@@ -1,6 +1,6 @@
 ---
 title: Como regulamentarizar meu negócio
-excerpt: Aprenda como abrir um MEI e regulamentarizar seu peg
+excerpt: Aprenda como abrir um MEI e regulamentar seu peg
 date: '2021-01-15'
 thumb_image: images/post-5-thumb.jpg
 thumb_image_alt: White wooden table with a chair
