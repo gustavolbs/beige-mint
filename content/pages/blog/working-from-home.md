@@ -35,6 +35,7 @@ seo:
       value: images/post-5.jpg
       relativeUrl: true
 layout: post
+subtitle: Artigo retirado do site Contabilizei.com.br
 ---
 No Brasil, segundo dados do [Ministério da Economia](https://www.gov.br/economia/pt-br/assuntos/noticias/2020/abril/brasil-ultrapassa-a-marca-de-10-milhoes-de-microempreendedores-individuais-meis), existem mais de dez milhões de MEIs registradas. Esse número vem crescendo anualmente  em função da alternativa que o modelo oferece para quem trabalha por conta própria e quer regularizar o  seu negócio.
 
