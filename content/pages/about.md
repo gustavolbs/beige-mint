@@ -11,7 +11,6 @@ sections:
 
       O objetivo deste site é fazer com que pessoas consigam se digitalizar,
       tornando seus negócios em digitais.
-    image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
