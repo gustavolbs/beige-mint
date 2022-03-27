@@ -42,9 +42,17 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Montar uma loja virtual é uma prática comum entre os empreendedores. O serviço é ideal para quem deseja levar os negócios para o universo digital e expandir as possibilidades de ganhos. Nesse sentido, plataformas como Wix, Go Daddy e Mercado Shops podem ser boas aliadas dos lojistas. De fácil uso, elas permitem criar lojas virtuais em poucos passos, oferecendo recursos como cadastro de produtos, personalização do design do site e integração com meios de pagamento e sistemas de frete.
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+A seguir, confira como as ferramentas funcionam e os recursos que oferecem.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+
+## ``
+
+``
+
+`Loja Integrada (https://lojaintegrada.com.br/) é um site que reúne diversos recursos voltados para criação e gerenciamento de um e-commerce. A plataforma conta com seções para configurar vendas, como painel de pedidos, ranking de faturamento e relatórios. Também existem ferramentas para exibir produtos no site, permitindo que os usuários cadastrem itens e categorias. Além disso, há uma área dedicada ao marketing, com gerador de cupons de desconto e frete grátis.`
+
+`A página permite que o lojista personalize o site conforme a identidade visual da loja. É possível, por exemplo, customizar o layout e aplicar planos de fundo próprios. Outros recursos são edição de HTML/CSS e certificação de segurança grátis.`
+
