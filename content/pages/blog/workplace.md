@@ -49,8 +49,6 @@ Neste período, muitos consumidores vivenciaram sua primeira experiência com a 
 
 Estes são comportamentos que vieram para ficar. Por isso, mais do que adaptar-se para sobreviver no mercado, vencer os desafios trazidos pela crise sanitária deve ser visto pelas pequenas empresas como uma oportunidade de aceleração para sua transformação digital.
 
-ormação digital.
-
 Confira o que é preciso ter em mente para que esta transformação seja consistente: 
 
 ## **Buscar aumento da capilaridade**
@@ -64,10 +62,6 @@ Um negócio digital deve ser pensando de forma a ter agilidade para entender e a
 ## **Investir na automação e digitalização de processos**
 
 Negócios digitais pedem processos digitais. Não há como ter a agilidade necessária com controles manuais.  A digitalização possibilita, por exemplo, responder rapidamente para o cliente o status de um pedido, passando uma imagem de organização e eficiência.
-
-## **Adotar formas de divulgação ampliadas**
-
-O meio digital oferece diversas formas para a divulgação de produtos e serviços. Para conferir as principais e como aproveitá-las para o seu negócio, ouça o Episódio 03 do Podcast Avançar sobre E-commerce. São várias dicas, mas para ir direto ao ponto sobre as formas de divulgação, acompanhe o intervalo que vai de 06’10’’ a 09’18:
 
 ## **Ter rapidez na tomada de decisão**
 
