@@ -106,8 +106,6 @@ Teoricamente, todo e qualquer brasileiro, em condição de pessoa física, pod
 
 • Já não ser Servidor Público Federal em atividade. Para os servidores estaduais e municipais, será necessário observar quais são os critérios praticados pela legislação local, pois podem haver variações nas regras e exigências. 
 
-
-
 ## **Quais são os benefícios do MEI?**
 
 ### **1. Facilidade de abertura**
@@ -130,8 +128,6 @@ A gestão do MEI é mais simples, e você mesmo pode cuidar disso. Com organiza�
 
 É importante salientar, ainda, os direitos e benefícios previdenciários, como aposentadoria por idade ou por invalidez, auxílio-doença, salário-maternidade e pensão por morte (para a família). Para ter acesso a esses direitos, a contribuição do MEI é de apenas 5% do salário mínimo. 
 
-
-
 ## **Quais são as obrigações do MEI?**
 
 As obrigações do MEI não são muitas, mas precisam ser levadas a sério.  Conheça algumas obrigações mensais (e recomendações) que você deve cumprir se deseja manter seu cadastro ativo, com todos os benefícios previstos para a modalidade.
@@ -144,11 +140,9 @@ Uma das obrigações do MEI é acessar a página [Carnê MEI – DAS](http://ww
 
 ### **2. Emissão de nota fiscal**
 
-**
-**Uma das grandes dúvidas dos microempreendedores individuais é sobre a obrigatoriedade da emissão de nota fiscal. Com o número de CNPJ, fornecido na regulamentação do MEI, é possível emitir notas fiscais para pessoas físicas e jurídicas. 
+Uma das grandes dúvidas dos microempreendedores individuais é sobre a obrigatoriedade da emissão de nota fiscal. Com o número de CNPJ, fornecido na regulamentação do MEI, é possível emitir notas fiscais para pessoas físicas e jurídicas. 
 
 Contudo, quando os serviços são prestados direto para um consumidor final, ou seja, para pessoas físicas, não é necessário emitir a nota. Já se o serviço for prestado para pessoas jurídicas, para empresas de qualquer porte, a nota fiscal é obrigatória.
-
 
 ### **3. Relatório mensal das receitas**
 
@@ -158,23 +152,17 @@ Por isso, no final  de cada mês, é recomendável que MEI preencha o documento
 
 ### **4. Entrega da Declaração Anual do Faturamento do Simples Nacional (DASN-SIMEI)**
 
-
 Outra obrigação do MEI é a entrega da [Declaração Anual do Faturamento do Simples Nacional (DASN-SIMEI)](http://www8.receita.fazenda.gov.br/simplesnacional/aplicacoes/atspo/dasnsimei.app/default.aspx). Esse documento indica o montante recebido pelo microempreendedor ao longo do último ano de exercício. Por isso, se você ser organizar mensalmente, vai ficar tudo mais fácil.
-
 
 Se entregue no período adequado, isto é, entre o mês de janeiro até o último dia de maio (31/05) de cada ano, o DASN-SIMEI é gratuito.  Sem ele, você não conseguirá emitir o DAS mensal, o que poderá levar ao cancelamento do MEI. Por isso, preste atenção às datas.
 
 Outro ponto importante a ser cuidado é o limite de faturamento anual para o MEI. Se o valor ultrapassar R$ 81 mil, é o momento para desenquadrar do MEI e virar uma microempresa ou uma empresa de pequeno porte.
 
-
-
 ### **5. Prestação das informações do funcionário contratado**
 
-**
-**O MEI pode contratar, no máximo, um colaborador. Se for o caso,  deve preencher os documentos de [Informação à Previdência Social](http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/gfip-sefip-guia-do-fgts-e-informacoes-a-previdencia-social-1) (GFIP) e a [Guia do FGTS](https://www.caixa.gov.br/empresa/fgts-empresas/SEFIP-GRF/Paginas/default.aspx). 
+O MEI pode contratar, no máximo, um colaborador. Se for o caso,  deve preencher os documentos de [Informação à Previdência Social](http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/gfip-sefip-guia-do-fgts-e-informacoes-a-previdencia-social-1) (GFIP) e a [Guia do FGTS](https://www.caixa.gov.br/empresa/fgts-empresas/SEFIP-GRF/Paginas/default.aspx). 
 
  
 Depois disso, o MEI deve encaminhar os documentos dentro do [Sistema de Conectividade Social da Caixa Econômica Federal](http://www.caixa.gov.br/empresa/conectividade-social/PAGINAS/DEFAULT.ASPX) até o dia 7 de cada mês. Ao contratar um funcionário, uma das obrigações do MEI é o depósito mensal do FGTS (8% sobre o salário) e o recolhimento de 3% da remuneração ao colaborador para a Previdência Social. Além disso, o MEI deve cumprir as demais obrigações trabalhistas previstas na CLT, como a assinatura da carteira de trabalho; pagamento do 13º salário, vale transporte, férias;  envio de aviso prévio (em caso de demissão), etc.
 
 Para que você tenha mais tranquilidade e lide melhor com as questões relacionadas à contratação de um funcionário, sugerimos que você procure ajude de um contador profissional. Vai facilitar muito a sua vida!
-
