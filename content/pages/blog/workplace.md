@@ -42,9 +42,32 @@ seo:
       relativeUrl: true
 layout: post
 ---
+A pandemia do novo coronavírus fez o mercado consumidor mudar muito rapidamente. As restrições de circulação das pessoas e de funcionamento dos estabelecimentos levaram os clientes a, rapidamente, migrarem para o meio digital. [Dados do MCC-ENET](https://www.mccenet.com.br/indice-de-vendas-online) apontam crescimento nas vendas online de 137,35% em maio; 110,52% em junho; e 106,78% em julho; quando comparado aos mesmos meses de 2019.
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Neste período, muitos consumidores vivenciaram sua primeira experiência com a compra online e quem já tinha esse hábito o ampliou, passando a adquirir produtos e serviços de novos segmentos. Outra verdadeira revolução foi a entrada no mundo digital de diversos serviços, antes prestados somente de forma presencial, como academias de ginástica ofertando aulas virtuais; psicólogos atendendo por vídeo-chamadas; consultores realizando atendimentos de forma remota.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+Estes são comportamentos que vieram para ficar. Por isso, mais do que adaptar-se para sobreviver no mercado, vencer os desafios trazidos pela crise sanitária deve ser visto pelas pequenas empresas como uma oportunidade de aceleração para sua transformação digital.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+ormação digital.
+
+Confira o que é preciso ter em mente para que esta transformação seja consistente: 
+
+## **Buscar aumento da capilaridade**
+
+A ampliação do mercado de atuação é uma característica de negócios digitais. Por exemplo, um estabelecimento que antes atendia apenas o público de um determinado bairro e que passa, com a digitalização, atender a cidade toda ou, até mesmo qualquer local do País.
+
+## **Ter agilidade na oferta de novos produtos e serviços**
+
+Um negócio digital deve ser pensando de forma a ter agilidade para entender e atender novas demandas, realizando ajustes e adaptações. Um exemplo foi o experimentado, na pandemia, pelos negócios que vendem refeições por aplicativos e que, geralmente, trabalhavam com a oferta de porções individuais: com o home office, muitas famílias passaram a almoçar juntas e isso gerou a necessidade de incluir, no cardápio, pratos para serem compartilhados. 
+
+## **Investir na automação e digitalização de processos**
+
+Negócios digitais pedem processos digitais. Não há como ter a agilidade necessária com controles manuais.  A digitalização possibilita, por exemplo, responder rapidamente para o cliente o status de um pedido, passando uma imagem de organização e eficiência.
+
+## **Adotar formas de divulgação ampliadas**
+
+O meio digital oferece diversas formas para a divulgação de produtos e serviços. Para conferir as principais e como aproveitá-las para o seu negócio, ouça o Episódio 03 do Podcast Avançar sobre E-commerce. São várias dicas, mas para ir direto ao ponto sobre as formas de divulgação, acompanhe o intervalo que vai de 06’10’’ a 09’18:
+
+## **Ter rapidez na tomada de decisão**
+
+Pensar e agir rápido é uma tônica dos negócios digitais. O objetivo deve ser sempre implementar experiências rápidas e precisas, voltadas para atender as expectativas dos clientes.
