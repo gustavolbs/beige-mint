@@ -1,6 +1,6 @@
 ---
 title: Cursos
-subtitle: lorem-ipsum
+subtitle: Aprenda gratuitamente como alavancar seu negócio digital
 image_alt: lorem-ipsum
 seo:
   title: ''
