@@ -1,10 +1,7 @@
 ---
 title: Como montar uma loja virtual grátis?
 subtitle: Artigo retirado do TechTudo
-excerpt: >-
-  Interior design is “the art or process of designing the interior, often
-  including the exterior, of a room or building”. An interior designer is
-  someone who coordinates and manages such projects.
+excerpt: "Montar uma loja virtual é uma prática comum entre os empreendedores. O serviço é ideal para quem deseja levar os negócios para o universo digital e expandir as possibilidades de ganhos. Nesse sentido, plataformas como\_Wix,\_Go Daddy\_e\_Mercado Shops\_podem ser boas aliadas dos lojistas. De fácil uso, elas permitem criar lojas virtuais em poucos passos, oferecendo recursos como cadastro de produtos, personalização do design do site e integração com meios de pagamento e sistemas de frete."
 date: '2022-03-27'
 thumb_image: images/post-2-thumb.jpg
 thumb_image_alt: 'Potted plants, candles on a table'
