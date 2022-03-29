@@ -21,12 +21,9 @@ Link: https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/aprender-a-empre
 
 **Instituição:** Sebrae
 
-
 **Quando:** a qualquer hora
 
-
 **Carga horária:** 16 horas
-
 
 **Idioma:** português
 
@@ -39,8 +36,14 @@ O curso tem como objetivo oferecer aos empreendedores MEI, empresários formais 
 Link: http://www.sebrae.com.br/sites/PortalSebrae/ead/iniciando-um-pequeno-e-grande-negocio,5a3a662493ba8510VgnVCM1000004c00210aRCRD
 
 **Instituição:** Sebrae
+
+
 **Quando:** a qualquer hora
+
+
 **Carga horária:** 30 horas
+
+
 **Idioma:** português
 
 #### ***Curso Sebrae Gratuito***
@@ -51,9 +54,14 @@ As aulas têm como objetivo transmitir princípios, fundamentos e práticas de e
 
 Link: https://www.sebrae.com.br/sites/PortalSebrae/cursoseeventos/controle-de-gastos-no-servico,a6b0b8a6a28bb610VgnVCM1000004c00210aRCRD
 
-\*\*Instituição: \*\*Sebrae
+**Instituição:** Sebrae
+
 **Quando:** a qualquer hora
+
+
 **Carga horária:** 3 horas
+
+
 **Idioma:** português
 
 #### ***Curso Sebrae Gratuito***
@@ -65,8 +73,14 @@ O curso capacita empresários a identificar e controlar os custos e as despesas
 Link: https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/como-definir-preco-de-venda,04a0b8a6a28bb610VgnVCM1000004c00210aRCRD
 
 **Instituição:** Sebrae
+
+
 **Quando:** a qualquer hora
+
+
 **Carga horária:** 2 horas
+
+
 **Idioma:** português
 
 #### ***Curso Sebrae Gratuito***
@@ -78,8 +92,14 @@ O curso capacita os empreendedores a reconhecer a importância da formação cor
 Link: https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/customer-success-como-conquistar-e-manter-clientes,b190b8a6a28bb610VgnVCM1000004c00210aRCRD
 
 **Instituição:** Sebrae
+
+
 **Quando:** a qualquer hora
+
+
 **Carga horária:** 14 dias / 2 horas
+
+
 **Idioma:** português
 
 #### ***Curso Sebrae Gratuito***
@@ -88,12 +108,18 @@ Ter um bom atendimento é essencial para conquistar clientes e chamar a atençã
 
 ### **6 – Como administrar uma empresa familiar**
 
-Link:\*\* **https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/como-administrar-uma-empresa-familiar,f6f0b8a6a28bb610VgnVCM1000004c00210aRCRD**
-\*\*
+Link: https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/como-administrar-uma-empresa-familiar,f6f0b8a6a28bb610VgnVCM1000004c00210aRCRD
 
-\*\*Instituição: \*\*Sebrae
+
+**Instituição:** Sebrae
+
+
 **Quando:** a qualquer hora
+
+
 **Carga horária:** 15 dias / 2 horas
+
+
 **Idioma:** português
 
 #### ***Curso Sebrae Gratuito***
