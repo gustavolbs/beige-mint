@@ -11,20 +11,23 @@ layout: page
 ---
 Aprenda sobre o universo digital e como tirar o melhor proveito disso. Disponibilizamos uma lista com cursos sobre empreendedorismo, vendas no instagram, marketing digital e muito mais.
 
-
 > A essência do conhecimento consiste em aplicá-lo, uma vez possuído. - Confúcio
 
 ![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
-
 
 ### **1 – Aprender a empreender**
 
 Link: https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/aprender-a-empreender,b070b8a6a28bb610VgnVCM1000004c00210aRCRD
 
 **Instituição:** Sebrae
+
+
 **Quando:** a qualquer hora
+
+
 **Carga horária:** 16 horas
+
+
 **Idioma:** português
 
 #### ***Curso Sebrae Gratuito***
@@ -48,7 +51,7 @@ As aulas têm como objetivo transmitir princípios, fundamentos e práticas de e
 
 Link: https://www.sebrae.com.br/sites/PortalSebrae/cursoseeventos/controle-de-gastos-no-servico,a6b0b8a6a28bb610VgnVCM1000004c00210aRCRD
 
-**Instituição: **Sebrae
+\*\*Instituição: \*\*Sebrae
 **Quando:** a qualquer hora
 **Carga horária:** 3 horas
 **Idioma:** português
@@ -85,10 +88,10 @@ Ter um bom atendimento é essencial para conquistar clientes e chamar a atençã
 
 ### **6 – Como administrar uma empresa familiar**
 
-Link:** **https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/como-administrar-uma-empresa-familiar,f6f0b8a6a28bb610VgnVCM1000004c00210aRCRD**
-**
+Link:\*\* **https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/como-administrar-uma-empresa-familiar,f6f0b8a6a28bb610VgnVCM1000004c00210aRCRD**
+\*\*
 
-**Instituição: **Sebrae
+\*\*Instituição: \*\*Sebrae
 **Quando:** a qualquer hora
 **Carga horária:** 15 dias / 2 horas
 **Idioma:** português
@@ -96,4 +99,3 @@ Link:** **https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/como-adminis
 #### ***Curso Sebrae Gratuito***
 
 Você sabia que 85% das empresas no Brasil e no mundo têm o perfil familiar? Por isso surgiu um curso com informações essenciais sobre gestão e sucessão família. É dirigido às pequenas empresas e empresas de pequeno porte com, pelo menos 2 anos de mercado que estejam já operando mas tenham como desafio presente ou futuro a questão de gestão familiar.
-
