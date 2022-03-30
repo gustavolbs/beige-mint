@@ -1,5 +1,5 @@
 ---
-title: Como transformar o meu negócio em ditial
+title: Como transformar o meu negócio em digital
 excerpt: >-
   A pandemia do novo coronavírus fez o mercado consumidor mudar muito
   rapidamente. As restrições de circulação das pessoas e de funcionamento dos
